@@ -1,0 +1,18 @@
+
+esptool.exe --chip esp32 --port COM10 --baud 115200 flash_id
+
+esptool.py v3.3
+Serial port COM10
+Connecting...........
+Chip is ESP32-D0WD-V3 (revision 3)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme None
+Crystal is 40MHz
+MAC: e0:e2:e6:9c:57:c0
+Uploading stub...
+Running stub...
+Stub running...
+Manufacturer: 20
+Device: 4016
+Detected flash size: 4MB
+Hard resetting via RTS pin...
+
