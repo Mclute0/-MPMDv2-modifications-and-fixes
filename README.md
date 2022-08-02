@@ -10,8 +10,7 @@ Notice-
 
 The information in this repository and assosciated project files is being provided for informational and experimental purposes and is for educational or entertainment purposes only. It is provided to assist individulas in the various states that have implemeted "Right to Repair laws" and to assist in meeting needs not addressed by designeers, manufactureers, and sellers of the products "We, the People" use.
 
-It involves working with DANEROUS electrical voltages and current and you should not attempt to replicate any activity you do not agree that you are qualified to complete.
-
+It involves working with DANGEROUS electrical voltages and current and you should not attempt to replicate any activity you do not agree that you are qualified to complete.
 
 WARNING: THIS INFORAMTION INCLUDES DANGEROUS CONDITIONS THAT MAY RESULT IN THE LOSS OF LIFE OR LIMB.
 
