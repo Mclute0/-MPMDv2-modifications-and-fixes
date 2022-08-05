@@ -15,7 +15,7 @@ I added 330uf 50v  polarized cap at jumper to the main board and a .1 uf ceramic
 After this the voltage measured at the jumper is 11.2v consistantly. The printer is less prone to stoppage due to power noise.
 
 
-![pic](https://https://github.com/Mclute0/-MPMDv2-modifications-and-fixes/blob/main/pics/20220801_195936.jpg)
+![pic](/pics/20220801_195936.jpg)
 
 
 
