@@ -15,6 +15,10 @@ I added 330uf 50v  polarized cap at jumper to the main board and a .1 uf ceramic
 After this the voltage measured at the jumper is 11.2v consistantly. The printer is less prone to stoppage due to power noise.
 
 
+![pic](https://https://github.com/Mclute0/-MPMDv2-modifications-and-fixes/blob/main/pics/20220801_195936.jpg?w=50&h=50)
+
+
+
 Problem number two.
 
 The USB is cotrolled by a CD340G chip. The problem is with the interface design. The DTR pin of the CH340a is connected to the nRST pin on the ARM processor. This means that if the DTR is taken to ground or low, for whatever reason, the printer will reset. Connecting to the serial port duing a print may cause the printer to reboot and the print to fail. I believe that his is a bad design but may have been intended to provide a way to reboot during firmware upgrades. 
