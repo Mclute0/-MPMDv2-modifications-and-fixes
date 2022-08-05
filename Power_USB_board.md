@@ -23,4 +23,8 @@ Problem number two.
 
 The USB is cotrolled by a CD340G chip. The problem is with the interface design. The DTR pin of the CH340a is connected to the nRST pin on the ARM processor. This means that if the DTR is taken to ground or low, for whatever reason, the printer will reset. Connecting to the serial port duing a print may cause the printer to reboot and the print to fail. I believe that his is a bad design but may have been intended to provide a way to reboot during firmware upgrades. 
 
-My initial soultion was to simply cut the DTR/nRST wire and I have no more uninteded reboots. I intend to install a 3 positiop toggel switch that could be used to reset the printer, return the DTR/nRST to the original configuration, or leave the connection open like I am running it now.
+My initial soultion was to simply cut the DTR/nRST wire and I have no more uninteded reboots. I intend to install a 3 position toggel switch that could be used to reset the printer, return the DTR/nRST to the original configuration, or leave the connection open like I am running it now.
+
+Problem 3
+
+Hot glue the power switch to the board. It is not attached besides the solder on the switch, it will fail eventualy.
