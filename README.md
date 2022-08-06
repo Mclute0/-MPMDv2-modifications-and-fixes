@@ -1,14 +1,17 @@
 # -MPMDv2-modifications-and-fixes
  MPMDv2 modifications and fixes
 
+
 (now listed as discontinued on Monoprice.com)
 
 https://www.monoprice.com/product?p_id=21666
 
 ![pic](https://images.monoprice.com/productlargeimages/216661.jpg)
 
+**** Remember that making any physical canges to the pinter will likly be used to void the warranty. ****
 
 Notice-
+
 
 The information in this repository and associated project files is being provided for informational and experimental purposes and is for educational or entertainment purposes only. It is provided to assist individuals in the various states that have implemented "Right to Repair laws" and to assist in meeting needs not addressed by designers, manufacturers, and sellers of the products "We, the People" use.
 
