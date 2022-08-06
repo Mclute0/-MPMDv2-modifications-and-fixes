@@ -1,6 +1,8 @@
 # -MPMDv2-modifications-and-fixes
  MPMDv2 modifications and fixes
 
+(now listed as discontinued on Monoprice.com)
+
 https://www.monoprice.com/product?p_id=21666
 
 ![pic](https://images.monoprice.com/productlargeimages/216661.jpg)
