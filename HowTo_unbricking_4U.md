@@ -14,4 +14,4 @@ Here is how..
 here is the back of the main board...
 
 
-![pic](/pics/20220801_200219.jpg)
+![pic1](/pics/20220801_200219.jpg)
