@@ -8,7 +8,7 @@ https://www.monoprice.com/product?p_id=21666
 
 ![pic](https://images.monoprice.com/productlargeimages/216661.jpg)
 
-**** Remember that making any physical canges to the pinter will likly be used to void the warranty. ****
+**** Remember that making any physical changes to the pinter will likly be used to void the warranty. ****
 
 Notice-
 
