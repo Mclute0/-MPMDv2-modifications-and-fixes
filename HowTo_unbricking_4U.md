@@ -22,7 +22,7 @@ Here is the pin out lookin at the pin order as they appear in the picture.
                                +-----+
    EN Enable esp32pin#3        | O O |  TX  esp32pin#35
    ground esp32pin#1,#15,#38   | O O |  RX  esp32pin#34
-   vcc 3.3v esp32pin#2         | O O |  IO0 esp32pin#25
+   vcc 3.3v esp32pin#2         | O O |  IO0 esp32pin#25 
                                +-----+   
                                
   
