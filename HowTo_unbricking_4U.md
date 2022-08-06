@@ -15,3 +15,11 @@ here is the back of the main board...
 
 
 ![pic1](/pics/20220801_200219.jpg)
+
+Note the yellow header pins on the lower left, on an unmodifies board they are plated throughholes and they are the all the connection needed to program the ESP32 module.
+
+Here is the pin out lookin at the pin order as they appear in the picture.
+
+      O O 
+      O O
+      O O
