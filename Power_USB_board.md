@@ -2,7 +2,7 @@
 
 Problem number one.
 
-The power supply for this printer is undersized. The power brich gets excessivly hot on long build and the voltage at the power inlet on the printer was measured to cosistanly drops from 12V to <10.5v to 11v. 
+The power supply for this printer is undersized. The power brich gets excessivly hot on long build and the voltage at the power inlet on the printer was measured to consistanly drops from 12V to <10.5v to 11v. 
 
 This is no so much a problem for the logic parts of the printer since there are voltage regulators for the ESP32 board and ARM processor logic circuits. There is no internal 12v regulator in the printer so the power brick is controlling the voltage to the steppers and the bed heater. There is no smoothing capacitor at the power entrance and there is only one 100uf 16v polarized cap on the system board. 
 
