@@ -1,5 +1,5 @@
 
-The version of WiiBuidler that ships with the MPMDv@ is Wiibuilder2.1.2.1 from Febuary 2021. 
+The version of WiiBuidler that ships with the MPMDv2 is Wiibuilder2.1.2.1 from Febuary 2021. 
 
 The newer version have several more features including an auto-update function (not tested by me)
 
