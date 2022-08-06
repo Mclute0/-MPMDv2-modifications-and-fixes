@@ -19,7 +19,10 @@ here is the back of the main board...
 Note the yellow header pins on the lower left, on an unmodifies board they are plated throughholes and they are the all the connection needed to program the ESP32 module.
 
 Here is the pin out lookin at the pin order as they appear in the picture.
-
-      O O 
-      O O
-      O O
+                               +-----+
+   EN Enable esp32pin#3        | O O |  TX  esp32pin#35
+   ground esp32pin#1,#15,#38   | O O |  RX  esp32pin#34
+   vcc 3.3v esp32pin#2         | O O |  IO0 esp32pin#25
+                               +-----+   
+                               
+  
