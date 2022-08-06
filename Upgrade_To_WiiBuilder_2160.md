@@ -38,7 +38,7 @@ at the beiniing just after
 <machines>
 
  --VVVVV-- copy the lines below into the machine.xml file save and you should be able to open WiiBuilder and select the MiniDelta v2 as a printer --VVVVVVV--
-<xml/>
+```xml
   
   <machine experimental="0">
 		<name>MP Mini Delta V2</name>
@@ -84,7 +84,7 @@ at the beiniing just after
       <endCode></endCode>
     </appendGcode>
 </machine>
-
+.```
  
 
 
